@@ -1,0 +1,11 @@
+{
+    "name": "mathocosta/learn-php",
+    "description": "",
+    "type": "project",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "ModelPro\\": "src/"
+      }
+    }
+}
